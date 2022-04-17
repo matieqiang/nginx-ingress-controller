@@ -1,0 +1,1 @@
+Nginx-ingress-controller manifest resource description documentation
